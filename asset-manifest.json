@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Guapp/static/css/main.e6c13ad2.css",
-    "main.js": "/Guapp/static/js/main.eba6b6ec.js",
+    "main.css": "/Guapp/static/css/main.a27d6ccb.css",
+    "main.js": "/Guapp/static/js/main.0b382de6.js",
     "index.html": "/Guapp/index.html",
-    "main.e6c13ad2.css.map": "/Guapp/static/css/main.e6c13ad2.css.map",
-    "main.eba6b6ec.js.map": "/Guapp/static/js/main.eba6b6ec.js.map"
+    "main.a27d6ccb.css.map": "/Guapp/static/css/main.a27d6ccb.css.map",
+    "main.0b382de6.js.map": "/Guapp/static/js/main.0b382de6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.eba6b6ec.js"
+    "static/css/main.a27d6ccb.css",
+    "static/js/main.0b382de6.js"
   ]
 }
